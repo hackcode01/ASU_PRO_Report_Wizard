@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-8cac4980fef79466c41d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ASU_PRO_Report_Wizard",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ASU_PRO_Report_Wizard::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ASU_PRO_Report_Wizard-Release-f05788ac8be67818c400.json",
+					"name" : "ASU_PRO_Report_Wizard",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ASU_PRO_Report_Wizard_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ASU_PRO_Report_Wizard_autogen-Release-f20517b67f89292f4e75.json",
+					"name" : "ASU_PRO_Report_Wizard_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ASU_PRO_Report_Wizard_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ASU_PRO_Report_Wizard_autogen_timestamp_deps-Release-c2dbeac44507a59d6acd.json",
+					"name" : "ASU_PRO_Report_Wizard_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QT/Projects/ASU_PRO_Report_Wizard/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release",
+		"source" : "D:/QT/Projects/ASU_PRO_Report_Wizard"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

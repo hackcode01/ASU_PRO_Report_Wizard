@@ -1,0 +1,13 @@
+# ninja log v6
+8	210	7488702298363066	D:/QT/Projects/ASU_PRO_Report_Wizard/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/CMakeFiles/cmake.verify_globs	2f3209242ec7ca1c
+246	459	7488702300742953	ASU_PRO_Report_Wizard_autogen/timestamp	4b5f39cd415c3010
+246	459	7488702300742953	ASU_PRO_Report_Wizard_autogen/mocs_compilation.cpp	4b5f39cd415c3010
+246	459	7488702300742953	D:/QT/Projects/ASU_PRO_Report_Wizard/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/ASU_PRO_Report_Wizard_autogen/mocs_compilation.cpp	4b5f39cd415c3010
+690	4107	7488368212963391	CMakeFiles/ASU_PRO_Report_Wizard.dir/PdfService.cpp.obj	5dd14087f6a1fb55
+246	459	7488702300742953	D:/QT/Projects/ASU_PRO_Report_Wizard/build/Desktop_Qt_6_7_2_MinGW_64_bit-Release/ASU_PRO_Report_Wizard_autogen/timestamp	4b5f39cd415c3010
+1388	7391	7488646160578749	CMakeFiles/ASU_PRO_Report_Wizard.dir/ASU_PRO_Report_Wizard_autogen/mocs_compilation.cpp.obj	f08e47807796fcb7
+689	3753	7488368212953408	CMakeFiles/ASU_PRO_Report_Wizard.dir/DatabaseService.cpp.obj	85d62c83fab29663
+1390	7550	7488646160598924	CMakeFiles/ASU_PRO_Report_Wizard.dir/main.cpp.obj	74d6fb5f84e10ab0
+461	14581	7488702302893126	CMakeFiles/ASU_PRO_Report_Wizard.dir/MainWindow.cpp.obj	7be7122caca22a0d
+14581	14857	7488702444091452	ASU_PRO_Report_Wizard.exe	f28793c6024c4ea8
+104	790	7488710734460443	build.ninja	d852785621f191c

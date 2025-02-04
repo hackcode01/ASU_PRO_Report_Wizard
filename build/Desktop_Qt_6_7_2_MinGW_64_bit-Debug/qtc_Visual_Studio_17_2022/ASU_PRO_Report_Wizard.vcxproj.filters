@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\QT\Projects\ASU_PRO_Report_Wizard\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\QT\Projects\ASU_PRO_Report_Wizard\MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\QT\Projects\ASU_PRO_Report_Wizard\DatabaseService.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\QT\Projects\ASU_PRO_Report_Wizard\PdfService.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\QT\Projects\ASU_PRO_Report_Wizard\PostgreSQLConnectionDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\QT\Projects\ASU_PRO_Report_Wizard\MainWindow.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\QT\Projects\ASU_PRO_Report_Wizard\DatabaseService.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\QT\Projects\ASU_PRO_Report_Wizard\PdfService.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\QT\Projects\ASU_PRO_Report_Wizard\PostgreSQLConnectionDialog.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\QT\Examples\Qt-6.7.2\sql\sqlbrowser\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\sqlbrowser_autogen\include\ui_browserwidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\QT\Examples\Qt-6.7.2\sql\sqlbrowser\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\sqlbrowser_autogen\include\ui_qsqlconnectiondialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\include_Debug\ui_MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\include_Debug\ui_PostgreSQLConnectionDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\include_Release\ui_MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\include_Release\ui_PostgreSQLConnectionDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\include_MinSizeRel\ui_MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\include_MinSizeRel\ui_PostgreSQLConnectionDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\include_RelWithDebInfo\ui_MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\include_RelWithDebInfo\ui_PostgreSQLConnectionDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\CMakeFiles\e436e0cee01948e7008ef3e54df9e012\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\QT\Projects\ASU_PRO_Report_Wizard\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\QT\Projects\ASU_PRO_Report_Wizard\MainWindow.ui" />
+    <None Include="D:\QT\Projects\ASU_PRO_Report_Wizard\ASU_PRO_Report_Wizard_ru_RU.ts" />
+    <None Include="D:\QT\Projects\ASU_PRO_Report_Wizard\PostgreSQLConnectionDialog.ui" />
+    <None Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\autouic_Debug.stamp" />
+    <None Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\autouic_Release.stamp" />
+    <None Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\ASU_PRO_Report_Wizard_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EA092F40-2165-3625-A36E-7D8EDB019632}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FABC678E-6571-3EB7-9E31-5100C9F9D0FF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{23CFC052-BE36-3C51-9D3D-C4CA3E038127}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

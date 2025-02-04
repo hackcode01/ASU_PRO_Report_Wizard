@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\QT\Projects\ASU_PRO_Report_Wizard\build\Desktop_Qt_6_7_2_MinGW_64_bit-Debug\qtc_Visual_Studio_17_2022\CMakeFiles\1e4482d04d347c213c863a37b04b3e71\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EA092F40-2165-3625-A36E-7D8EDB019632}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
